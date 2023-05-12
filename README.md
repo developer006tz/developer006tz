@@ -1,6 +1,6 @@
 # Hi there 👋, I’m @developer006tz
 
-![Profile illustration](https://i.imgur.com/8MupZHY.gif)
+
 
 - ⚡ I’m a **Software Engineer**
 - 🌱 I’m a **Full-Stack Developer** (Laravel/ Django)
@@ -11,5 +11,7 @@
 - 💬 You can reach me at **+255 746 828 843**
 
 Let's build something awesome together! 🚀
+
+![Profile illustration](https://i.imgur.com/8MupZHY.gif)
 <!--
 **developer006tz/developer006tz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
