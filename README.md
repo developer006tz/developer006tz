@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on different open-source projects
 - 🤔 Feel free to collaborate with me on any project
 - 💬 You can reach me at **+255 746 828 843**
-- ⚡ My personal website : [**Ludovickonyo.com**](https://ludovickonyo.com)
+- ⚡ My personal website : [**Ludovickonyo.com**](https://ludovickonyo.info)
 
 Let's build something awesome together! 🚀
 
