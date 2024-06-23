@@ -16,7 +16,7 @@ Let's build something awesome together! 🚀
 ![Profile illustration](https://i.imgur.com/8MupZHY.gif)
 
 ## Languages and Tools I have used
-[![Languages and Tools I have used so far](https://skillicons.dev/icons?i=laravel,nodejs,django,flutter,html,css,javascript,react,bootstrap,tailwind,sass,figma,vscode,github,git,bash,postman,insomnia,postgres&perline=5)](https://skillicons.dev)
+[![Languages and Tools I have used so far](https://skillicons.dev/icons?i=laravel,nodejs,django,flutter,html,css,javascript,react,bootstrap,tailwind,sass,figma,vscode,github,git,bash,postman,swagger,postgres&perline=5)](https://skillicons.dev)
 
 ![Kai's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=developer006tz&show_icons=true&theme=radical)
 
