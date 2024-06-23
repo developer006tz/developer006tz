@@ -3,8 +3,8 @@
 
 
 - ⚡ I’m a **Software Engineer**
-- 🌱 I’m a **Full-Stack Developer** (Laravel/ Django)
-- 😄 I’m a **Mobile Developer** (Flutter)
+- 🌱 I’m a **Full-Stack Developer** (Laravel/Nodejs  |  Reactjs/Vuejs)
+- 😄 I’m a **Mobile Developer** (React Native/Flutter)
 - 🔭 I’m currently working at [@socialSmartTech](https://socialsmarttech.com) as a **Software Engineer**
 - 👯 I’m looking to collaborate on different open-source projects
 - 🤔 Feel free to collaborate with me on any project
