@@ -3,12 +3,12 @@
 
 
 - ⚡ I’m a **Software Engineer**
-- 🌱 I’m a **Full-Stack Developer** (Laravel/Nodejs  |  Reactjs/Vuejs)
+- 🌱 I’m a **Full-Stack Developer** (Spring boot/Nodejs/Laravel  |  Reactjs/Vuejs | Flutter)
 - 😄 I’m a **Mobile Developer** (React Native/Flutter)
-- 🔭 I’m currently working at [@socialSmartTech](https://socialsmarttech.com) as a **Software Engineer**
+- 🔭 I’m currently working at [@socialSmartTech](https://evmak.com) as a **Tech Lead**
 - 👯 I’m looking to collaborate on different open-source projects
 - 🤔 Feel free to collaborate with me on any project
-- 💬 You can reach me at **+255 746 828 843**
+- 💬 You can reach me whatsapp at **+255 746 828 843**
 - ⚡ My personal website : [**Ludovickonyo.site**](https://ludovickonyo.site)
 
 Let's build something awesome together! 🚀
