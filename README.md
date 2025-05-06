@@ -20,5 +20,7 @@ Let's build something awesome together! 🚀
 
 ![Kai's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=developer006tz&show_icons=true&theme=radical)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/developer006tz/langs)](https://githubtrends.io) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/developer006tz/repos?time_range=one_year&group=other&theme=dark)](https://apps.flutterai.dev)
+
 <!--
 **developer006tz/developer006tz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
