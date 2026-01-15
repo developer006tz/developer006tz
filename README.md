@@ -5,7 +5,7 @@
 - ⚡ I’m a **Senior Software Engineer**
 - 🌱 I’m a **Full-Stack Developer** (Spring boot/Nodejs/Laravel  |  Reactjs/Vuejs | Flutter)
 - 😄 I’m a **Mobile Developer** (React Native/Flutter)
-- 🔭 I’m currently working at [@Governmet of Tanzania] as a **Programmer**                    
+- 🔭 I’m currently working at Governmet of Tanzania as a **Programmer**                    
   
 - 👯 I’m looking to collaborate on different open-source projects
 - 🤔 Feel free to collaborate with me on any project
