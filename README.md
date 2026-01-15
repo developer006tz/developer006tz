@@ -5,11 +5,12 @@
 - ⚡ I’m a **Senior Software Engineer**
 - 🌱 I’m a **Full-Stack Developer** (Spring boot/Nodejs/Laravel  |  Reactjs/Vuejs | Flutter)
 - 😄 I’m a **Mobile Developer** (React Native/Flutter)
-- 🔭 I’m currently working at [@EvMak](https://evmak.com) as a **Technology Manager**
+- 🔭 I’m currently working at [@EvMak](https://evmak.com                    
+  ) as a **Technology Manager**
 - 👯 I’m looking to collaborate on different open-source projects
 - 🤔 Feel free to collaborate with me on any project
 - 💬 You can reach me whatsapp at **+255 746 828 843**
-- ⚡ My personal website : [**Ludovickonyo.site**](https://ludovickonyo.site)
+- ⚡ My personal website : [**Ludovickonyo.site**](https://ludovickonyo.space)
 
 Let's build something awesome together! 🚀
 
